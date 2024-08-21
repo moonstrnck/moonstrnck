@@ -16,3 +16,8 @@
 - 개발자 도구의 콘솔 창에서 개발자들 간의 채팅 및 DOM 조작을 이용한 디버깅을 제공하는 CDN 서비스
 - A CDN service that provides chat functionality between developers and debugging methods using DOM manipulation in the browser's developer console
 
+
+<br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoonstrnck&count_bg=%23303030&title_bg=%23303030&icon=&icon_color=%23D5C0C0&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
