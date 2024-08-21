@@ -1,5 +1,9 @@
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:moonstrnck@gmail.com)](mailto:moonstrnck@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)](https://debonair-bread-c72.notion.site/Steady-study-15027e22e0504c00bdb4f555fbeeb25d?pvs=4)
+<a href="mailto:moonstrnck@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
+<a href="https://debonair-bread-c72.notion.site/Steady-study-15027e22e0504c00bdb4f555fbeeb25d?pvs=4" target="_blank">
+<img src="https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat"/>
+</a>
 
 ### Seunghwi Moon
 - Frontend Developer
