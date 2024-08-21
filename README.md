@@ -2,9 +2,8 @@
 [![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)](https://debonair-bread-c72.notion.site/Steady-study-15027e22e0504c00bdb4f555fbeeb25d?pvs=4)
 
 ### Seunghwi Moon
-
 - Frontend Developer
-- I’m interested in Javascript, Typescript, React, and React Native.
+- I’m interested in ***Javascript***, ***Typescript***, ***React***, and ***React Native***.
 
 
 ### Projects
