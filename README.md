@@ -16,4 +16,4 @@
 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:moonstrnck@gmail.com)](mailto:moonstrnck@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)](https://debonair-bread-c72.notion.site/Steady-study-15027e22e0504c00bdb4f555fbeeb25d?pvs=4)
+[![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)](https://moonstrnck.notion.site/Steady-Study-15027e22e0504c00bdb4f555fbeeb25d)
