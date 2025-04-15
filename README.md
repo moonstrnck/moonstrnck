@@ -1,19 +1,27 @@
-### Seunghwi Moon
+### 🌝 Seunghwi Moon 
 - Frontend Developer
-- I’m interested in ***Javascript***, ***Typescript***, ***React***, and ***React Native***.
+- I’m interested in ***Javascript***, ***Typescript***, ***Next.js***, ***React*** and ***React Native***.
+- Currently focusing on **Web3** and **blockchain-based dApps** using React and TypeScript.
+  
+
+<br>
+
+**Work Experience**
+
+- Frontend Developer @ Team Heimdallr (2024.10 ~ ) <br>
+- Web Publisher @ EiLab (2021.11 ~ 2024.03)
+
+**Activities**
+
+- Vanilla Coding Frontend Bootcamp (2024.04 ~ 2024.08)
 
 
-### Projects
+**Archived Projects**
 
-📍 [WhatToDoHere](https://github.com/WhatToDoHere/WhatToDoHere-App)
- - GPS와 WiFi 정보를 이용하여 위치 기반 미리 알림을 제공하는 React Native 모바일 애플리케이션
- - A React Native mobile application that provides location-based reminders using GPS and WiFi information
-
+📍 [WhatToDoHere](https://github.com/WhatToDoHere/WhatToDoHere-App) <br>
 🌽 [con.chat](https://github.com/Team-conchat/con.chat)
-- 개발자 도구의 콘솔 창에서 개발자들 간의 채팅 및 DOM 조작을 이용한 디버깅을 제공하는 CDN 서비스
-- A CDN service that provides chat functionality between developers and debugging methods using DOM manipulation in the browser's developer console
+
 
 <br>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:moonstrnck@gmail.com)](mailto:moonstrnck@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff&style=flat)](https://moonstrnck.notion.site/Steady-Study-15027e22e0504c00bdb4f555fbeeb25d)
