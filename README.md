@@ -1,5 +1,4 @@
 ### 🌝 Seunghwi Moon 
-- Frontend Developer
 - I’m interested in ***Javascript***, ***Typescript***, ***Next.js***, ***React*** and ***React Native***.
 - Currently focusing on **Web3** and **blockchain-based dApps** using React and TypeScript.
   
@@ -8,8 +7,8 @@
 
 **Work Experience**
 
-- Frontend Developer @ Team Heimdallr (2024.10 ~ ) <br>
-- Web Publisher @ EiLab (2021.11 ~ 2024.03)
+- @ Team Heimdallr (2024.10 ~ ) <br>
+- @ EiLab (2021.11 ~ 2024.03)
 
 **Activities**
 
