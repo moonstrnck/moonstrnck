@@ -1,6 +1,5 @@
 ### 🌝 Seunghwi Moon 
 - I’m interested in ***Javascript***, ***Typescript***, ***Next.js***, ***React*** and ***React Native***.
-- Currently focusing on **Web3** and **blockchain-based dApps** using React and TypeScript.
   
 
 <br>
@@ -13,12 +12,6 @@
 **Activities**
 
 - Vanilla Coding Frontend Bootcamp (2024.04 ~ 2024.08)
-
-
-**Archived Projects**
-
-📍 [WhatToDoHere](https://github.com/WhatToDoHere/WhatToDoHere-App) <br>
-🌽 [con.chat](https://github.com/Team-conchat/con.chat)
 
 
 <br>
