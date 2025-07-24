@@ -1,5 +1,5 @@
 ### 🌝 Seunghwi Moon 
-- I’m interested in ***Javascript***, ***Typescript***, ***Next.js***, ***React*** and ***React Native***.
+<!-- - I’m interested in ***Javascript***, ***Typescript***, ***Next.js***, ***React*** and ***React Native***.
   
 
 <br>
@@ -16,4 +16,4 @@
 
 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:moonstrnck@gmail.com)](mailto:moonstrnck@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:moonstrnck@gmail.com)](mailto:moonstrnck@gmail.com)  -->
