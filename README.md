@@ -1,4 +1,4 @@
-### 🌝 Seunghwi Moon 
+### 🌝 Seunghwee Moon 
 <!-- - I’m interested in ***Javascript***, ***Typescript***, ***Next.js***, ***React*** and ***React Native***.
   
 
